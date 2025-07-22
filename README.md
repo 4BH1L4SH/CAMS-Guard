@@ -1,10 +1,11 @@
 # CAMS-Guard
 Chrome browser extension that is builded for hunting malicious, phishing and other fake URL's in real time
 
-##How to use our Phishing Detection Chrome Extension
+## How to use our Phishing Detection Chrome Extension
 
 STEP 1 : Download the folder named CamsGuard.zip file from here
           link for downloading:
+  https://github.com/4BH1L4SH/CAMS-Guard.git
 
 STEP 2 : Unzip the file from the Downloaded Location
 
