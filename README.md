@@ -5,7 +5,7 @@ Chrome browser extension that is builded for hunting malicious, phishing and oth
 
 STEP 1 : Download the folder named CamsGuard.zip file from here
           link for downloading:
-  https://github.com/4BH1L4SH/CAMS-Guard.git
+         https://github.com/4BH1L4SH/CAMS-Guard.git
 
 STEP 2 : Unzip the file from the Downloaded Location
 
