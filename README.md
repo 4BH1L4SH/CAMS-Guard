@@ -9,7 +9,7 @@ STEP 1 : Download the folder named CamsGuard.zip file from here
 
 STEP 2 : Unzip the file from the Downloaded Location
 
-STEP 3 : Open your Chrome Browser and search for ## chrome://extensions/ in the URL box
+STEP 3 : Open your Chrome Browser and search for chrome://extensions/ in the URL box
 
 STEP 4 : Switch to Developer Mode in the chrome Browser
 
